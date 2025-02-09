@@ -1,6 +1,6 @@
-<img alt="Logo" title="#Logo" src="./assets/logo.png" />
-
 # CarcaraQSAR - Computational Algorithms to Relate Chemical Attributes with Respective Activities.
+
+<img alt="Logo" width="400" title="#Logo" src="./assets/logo.png" />
 
 Essa aplicação busca facilitar a crição de modelos QSAR através de uma interação mais amigável e intuitiva para o usuário.
 
@@ -23,3 +23,9 @@ Para construir um modelo QSAR, você normalmente segue estes passos:
 5. Aplicação do modelo: Use o modelo QSAR para prever a atividade de substâncias químicas desconhecidas ou para otimizar o design de novas moléculas com propriedades desejadas.
 
 Os modelos QSAR são extremamente úteis na triagem virtual de compostos químicos, economizando tempo e recursos na pesquisa de novos medicamentos e produtos químicos. Eles também desempenham um papel importante na avaliação de riscos de substâncias químicas e na regulamentação de produtos químicos em relação à segurança ambiental e humana.
+
+## Como usar a aplicação?
+
+Este projeto está disponível no [link](http://carcaraqsar.com.br/).
+
+Neste projeto, você pode submeter databases de moléculas e treinar novos modelos de acordo com os parâmetros que desejar.
